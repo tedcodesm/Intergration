@@ -60,9 +60,7 @@ const PurchaseSuccessPage = () => {
 					<p className='text-gray-300 text-center mb-2'>
 						Thank you for your order. {"We're"} processing it now.
 					</p>
-					<p className='text-emerald-400 text-center text-sm mb-6'>
-						Check your email for order details and updates.
-					</p>
+					
 					<div className='bg-gray-700 rounded-lg p-4 mb-6'>
 						<div className='flex items-center justify-between mb-2'>
 							<span className='text-sm text-gray-400'>Order number</span>
